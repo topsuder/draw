@@ -257,7 +257,7 @@
           <mxGeometry x="200" y="360" width="450" height="460" as="geometry" />
         </mxCell>
         <mxCell id="tbZtvnlZmpr80DjriXtx-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="503" y="379.38" width="140" height="191.25" as="geometry" />
+          <mxGeometry x="503" y="379.38" width="140" height="430.62" as="geometry" />
         </mxCell>
         <mxCell id="tbZtvnlZmpr80DjriXtx-16" value="AIGC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="518" y="395.63" width="110" height="40" as="geometry" />
@@ -297,12 +297,6 @@
         </mxCell>
         <mxCell id="tbZtvnlZmpr80DjriXtx-36" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="225" y="630.63" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbZtvnlZmpr80DjriXtx-37" value="二方" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="543" y="670.63" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tbZtvnlZmpr80DjriXtx-38" value="三方" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="543" y="570.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tbZtvnlZmpr80DjriXtx-40" value="服务中心" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="225" y="690.63" width="110" height="40" as="geometry" />
