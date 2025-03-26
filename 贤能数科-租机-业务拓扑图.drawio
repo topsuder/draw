@@ -1,9 +1,261 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="第 1 页" id="1wiXbq41n5dBMElSTuxN">
-    <mxGraphModel>
+    <mxGraphModel dx="3261" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S_m9FdpeROac-4RxjGpN-3" value="门户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-701" y="177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-4" value="运营平台(pc)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="175" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-5" value="商铺运营中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-284" y="175" width="307" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-6" value="用户端(小程序)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="41" y="175" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-7" value="业务中台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="239" y="177" width="241" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-10" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="177" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-11" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-701" y="255" width="120" height="566" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="255" width="729" height="688" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="192" y="255" width="133" height="687" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="347" y="255" width="133" height="688" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="502" y="255" width="133" height="686" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="288" width="282" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-17" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;运营平台&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-387" y="283" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-18" value="商品审核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="318" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-19" value="商铺管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="356" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-20" value="信审管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="394" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-21" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="432" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-22" value="营销管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="318" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-23" value="代扣管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="318" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-26" value="风控管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="356" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-27" value="楼层装修" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="356" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-29" value="佣金管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="394" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-30" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="394" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-31" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="432" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-32" value="消息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="431" width="82" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-33" value="系统设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-446" y="469" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="287.5" width="284" height="186.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-49" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;商铺运营中心&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-53.5" y="283" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-50" value="看板" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="317.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-51" value="信审管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="355.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-52" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="393.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-53" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="431.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-54" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="317.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-55" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="44" y="317.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-56" value="营销工具" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="355.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-57" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="44" y="355.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-58" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="393.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-59" value="FAQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="44" y="393.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="549" width="282" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-80" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;用户端&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-387" y="544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-81" value="插拔功能" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="579" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-82" value="免押分类" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="617" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-83" value="我的" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="655" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-85" value="搜索引擎" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="580" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-86" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="579" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-87" value="sku详情" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="617" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-88" value="客服中心" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="617" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-94" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="469" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="516.5" width="282" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-96" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;中台&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="511.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-97" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="546.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-98" value="个性化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="584.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-99" value="数据隔离" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="622.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-100" value="租户管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="547.5" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-101" value="域名管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="44" y="546.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-102" value="工单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="44" y="584.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-103" value="服务订阅" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="584.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-105" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;供应链系统&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="213" y="285" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-106" value="物流管&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%9C%8B%E6%9D%BF%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DArchitects%20Daughter%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DArchitects%252BDaughter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-140%22%20y%3D%22317.5%22%20width%3D%2282%22%20height%3D%2232%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="334" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-107" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="383.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-108" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;. . .&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="213" y="421" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-109" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;风控系统&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="368" y="286" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-110" value="预审" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="334" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-111" value="信审" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="383.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-112" value="机审" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="431" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-113" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;导流系统&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="285" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-114" value="流量入口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="534" y="334" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-330.5" y="735" width="281.5" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-116" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;开放平台&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-217.5" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-117" value="Api *" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-321.5" y="765" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-120" value="身份认证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-228.5" y="766" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-121" value="操作文档" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-137.5" y="765" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-124" value="用户画像" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="534" y="383.5" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-125" value="分流" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="534" y="431" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-126" value="活动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="534" y="474" width="82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-127" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;. . .&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="368" y="479" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-128" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;. . .&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="516.5" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-129" value="基础数据层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-698" y="839" width="120" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="840.5" width="628" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-131" value="spu/sku" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-492" y="848.75" width="103" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-133" value="租赁" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="848.75" width="103" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-134" value="征信" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-266" y="848.75" width="103" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-135" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="848.75" width="103" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_m9FdpeROac-4RxjGpN-136" value="风控" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="848.75" width="103" height="63.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
